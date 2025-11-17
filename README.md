@@ -121,7 +121,7 @@ shopping-hub/
 
 ⚙️ Setup & Installation
 1. Clone the repository
-git clone https://github.com/your-username/shopping-hub.git
+git clone https://github.com/vijayvs2341/Online-Shopping-Website
 
 2. Open the project
 
@@ -236,8 +236,8 @@ This project is Open-Source and free for personal, academic, and commercial use.
 Vijay Selvan / Online shopping
 📧 Email: vijayvs2341@gmail.com
 
-💼 Portfolio: your portfolio link
-🐙 GitHub: your github link
+💼 Portfolio: https://github.com/vijayvs2341/Portfolio
+🐙 GitHub: https://github.com/vijayvs2341
 
 🔥 Want It Even More Advanced?
 
